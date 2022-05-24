@@ -1,4 +1,7 @@
-# Implementation-of-Erosion-and-Dilation
+### EXP NO: 10
+### DATE:
+
+# <p align='center'> Implementation-of-Erosion-and-Dilation</p>
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
